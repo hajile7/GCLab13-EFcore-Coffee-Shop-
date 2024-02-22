@@ -1,0 +1,11 @@
+﻿@model Coffee
+
+@{
+    if(Model != null)
+    {
+        <h1>@Model.Name</h1>
+        <p>Category: @Model.Category</p>
+        <p>Price: @Model.Price</p>
+        <p>Description: @Model.Description</p>
+    }
+}

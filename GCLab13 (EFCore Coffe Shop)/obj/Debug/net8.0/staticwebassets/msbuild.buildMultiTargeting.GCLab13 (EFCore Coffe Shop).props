@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GCLab13 (EFCore Coffe Shop).props" />
+</Project>
